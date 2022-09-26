@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Kumar2 </title>
+</head>
+<body>
+<h1> Kids collection </h>
+<p> New material </p>
+<p> New collection </p>
+<p> Trendind collection </p>
+</body>
+</html> 
